@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I am Janmesh Rajput</h1>
 <h3 align="center">A full stack Web developer, CSE student at Indian Institute of Information Technology Pune, Batch - 2026.</h3>
 
-#### <p align="left"> <img src="https://komarev.com/ghpvc/?username=janmesh1814&label=Profile%20views&color=0e75b6&style=flat" alt="janmesh1814" /> </p>
-
-
 - 🔭 I’m currently working on [E-commerce website](https://github.com/janmesh1814/Briskk.git)
 
 - 🌱 I’m currently learning **React, Redux toolkit**
