@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Janmesh Rajput</h1>
-<h3 align="center">A full stack Web developer</h3>
+<h1 align="center">Hi, I am Janmesh Rajput</h1>
+<h3 align="center">A full stack Web developer, CSE student at Indian Institute of Information Technology Pune, Batch - 2026.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janmesh1814&label=Profile%20views&color=0e75b6&style=flat" alt="janmesh1814" /> </p>
 
