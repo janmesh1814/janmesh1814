@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Structures, Algorithms, Backend, Frontend**
 
-- 📫 How to reach me **https://www.linkedin.com/in/janmesh-rajput-762377255/**
+- 📫 How to reach me email - **janmeshrajput1814@gmail.com**,Linkedin - **https://www.linkedin.com/in/janmesh-rajput-762377255/**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
