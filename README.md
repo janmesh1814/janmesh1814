@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I am Janmesh Rajput</h1>
 <h3 align="center">A full stack Web developer, CSE student at Indian Institute of Information Technology Pune, Batch - 2026.</h3>
 
-
-- 🌱 I’m currently learning **React, Redux toolkit**
-
 - 📝 I regularly write articles on [https://leetcode.com/u/__janmesh/](https://leetcode.com/u/__janmesh/)
 
 - 💬 Ask me about **Data Structures, Algorithms, Backend, Frontend**
